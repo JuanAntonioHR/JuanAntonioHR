@@ -5,4 +5,4 @@
 ### ¡Holi crayoli! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 
 ## Sobre mí
-Soy un desarrollador de software enfocado en el desarrollo web y frontend
+Soy un desarrollador de software enfocado en el desarrollo web y frontend. También poseo experiencia en el desarrollo de entornos 3d con blender y UE5
